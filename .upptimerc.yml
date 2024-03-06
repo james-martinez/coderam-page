@@ -15,8 +15,9 @@ status-website:
   baseUrl: https://github.com/$OWNER/$REPO
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime Coderam.page
-  introTitle: "Coderam.page"
+  introTitle: Coderam.page
   introMessage: Status page
+  navbar:
     - title: Status
       href: https://$OWNER.github.io/$REPO/
     - title: GitHub
