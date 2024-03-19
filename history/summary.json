@@ -22,7 +22,7 @@
     "url": "https://dns.coderam.page",
     "icon": "https://icons.duckduckgo.com/ip3/dns.coderam.page.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 325,
     "timeMonth": 328,
     "timeYear": 328,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   }
 ]
