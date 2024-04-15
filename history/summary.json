@@ -4,7 +4,7 @@
     "url": "https://coderam.page",
     "icon": "https://icons.duckduckgo.com/ip3/coderam.page.ico",
     "slug": "coderam-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 366,
     "timeMonth": 338,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-15": 0
+    }
   },
   {
     "name": "Dns",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.coderam.page.ico",
     "slug": "dns",
     "status": "up",
-    "uptime": "93.47%",
+    "uptime": "93.58%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "91.23%",
-    "uptimeYear": "93.47%",
+    "uptimeYear": "93.58%",
     "time": 404,
     "timeDay": 591,
     "timeWeek": 565,
