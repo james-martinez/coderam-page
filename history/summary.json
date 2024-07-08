@@ -4,7 +4,7 @@
     "url": "https://coderam.page",
     "icon": "https://icons.duckduckgo.com/ip3/coderam.page.ico",
     "slug": "coderam-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 341,
     "timeYear": 338,
     "dailyMinutesDown": {
+      "2024-07-08": 0,
       "2024-06-28": 39,
       "2024-06-06": 19,
       "2024-06-02": 26,
