@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/coderam.page.ico",
     "slug": "coderam-page",
     "status": "up",
-    "uptime": "81.77%",
+    "uptime": "81.79%",
     "uptimeDay": "86.15%",
     "uptimeWeek": "96.82%",
     "uptimeMonth": "99.08%",
     "uptimeYear": "75.32%",
-    "time": 1310,
-    "timeDay": 5128,
-    "timeWeek": 5053,
+    "time": 1315,
+    "timeDay": 5075,
+    "timeWeek": 3811,
     "timeMonth": 2562,
-    "timeYear": 1533,
+    "timeYear": 1538,
     "dailyMinutesDown": {
       "2025-07-15": 199,
       "2025-07-10": 121,
@@ -130,15 +130,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dns.coderam.page.ico",
     "slug": "dns",
     "status": "up",
-    "uptime": "79.72%",
+    "uptime": "79.75%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.93%",
+    "uptimeWeek": "88.54%",
     "uptimeMonth": "94.80%",
-    "uptimeYear": "74.02%",
+    "uptimeYear": "74.20%",
     "time": 410,
-    "timeDay": 455,
-    "timeWeek": 361,
-    "timeMonth": 399,
+    "timeDay": 395,
+    "timeWeek": 363,
+    "timeMonth": 398,
     "timeYear": 395,
     "dailyMinutesDown": {
       "2025-07-13": 114,
@@ -266,8 +266,7 @@
       "2024-07-20": 1440,
       "2024-07-19": 1440,
       "2024-07-18": 1440,
-      "2024-07-17": 1440,
-      "2024-07-16": 1440
+      "2024-07-17": 1440
     }
   }
 ]
