@@ -6,17 +6,17 @@
     "slug": "coderam-page",
     "status": "up",
     "uptime": "97.72%",
-    "uptimeDay": "97.72%",
-    "uptimeWeek": "97.28%",
-    "uptimeMonth": "96.14%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "97.15%",
+    "uptimeMonth": "96.11%",
     "uptimeYear": "96.01%",
-    "time": 2370,
-    "timeDay": 1501,
-    "timeWeek": 1398,
-    "timeMonth": 1489,
+    "time": 2367,
+    "timeDay": 1296,
+    "timeWeek": 1382,
+    "timeMonth": 1475,
     "timeYear": 2547,
     "dailyMinutesDown": {
-      "2025-12-05": 33,
+      "2025-12-05": 47,
       "2025-12-03": 29,
       "2025-12-02": 116,
       "2025-12-01": 54,
@@ -91,8 +91,7 @@
       "2025-06-10": 24,
       "2025-05-20": 24,
       "2025-05-19": 19,
-      "2025-05-18": 20,
-      "2025-05-17": 20
+      "2025-05-18": 20
     }
   },
   {
@@ -107,9 +106,9 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "84.75%",
     "time": 381,
-    "timeDay": 224,
-    "timeWeek": 261,
-    "timeMonth": 318,
+    "timeDay": 355,
+    "timeWeek": 266,
+    "timeMonth": 320,
     "timeYear": 382,
     "dailyMinutesDown": {
       "2025-12-03": 17,
