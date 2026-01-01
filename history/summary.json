@@ -4,19 +4,18 @@
     "url": "https://coderam.page",
     "icon": "https://icons.duckduckgo.com/ip3/coderam.page.ico",
     "slug": "coderam-page",
-    "status": "up",
+    "status": "down",
     "uptime": "97.89%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.71%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "98.72%",
     "uptimeYear": "96.15%",
-    "time": 2238,
-    "timeDay": 1281,
-    "timeWeek": 1469,
-    "timeMonth": 1454,
-    "timeYear": 2441,
+    "time": 2235,
+    "timeDay": 1144,
+    "timeWeek": 1426,
+    "timeMonth": 1446,
+    "timeYear": 2439,
     "dailyMinutesDown": {
-      "2026-01-01": 5,
       "2025-12-29": 22,
       "2025-12-27": 17,
       "2025-12-26": 27,
@@ -94,7 +93,7 @@
       "2025-07-31": 57,
       "2025-07-28": 46,
       "2025-07-27": 24,
-      "2025-07-24": 101
+      "2025-07-24": 126
     }
   },
   {
@@ -104,9 +103,9 @@
     "slug": "dns",
     "status": "up",
     "uptime": "91.66%",
-    "uptimeDay": "99.67%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "84.75%",
     "time": 377,
     "timeDay": 305,
@@ -114,7 +113,6 @@
     "timeMonth": 284,
     "timeYear": 377,
     "dailyMinutesDown": {
-      "2026-01-01": 5,
       "2025-12-17": 16,
       "2025-12-07": 18,
       "2025-12-03": 17,
@@ -207,7 +205,8 @@
       "2025-02-28": 18,
       "2025-02-26": 20,
       "2025-02-25": 18,
-      "2025-02-24": 18
+      "2025-02-24": 18,
+      "2025-02-19": 20
     }
   }
 ]
