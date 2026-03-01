@@ -76,12 +76,12 @@
     "url": "https://dns.coderam.page",
     "icon": "https://icons.duckduckgo.com/ip3/dns.coderam.page.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "97.54%",
+    "uptimeDay": "97.53%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.52%",
-    "uptimeYear": "98.95%",
+    "uptimeYear": "98.96%",
     "time": 366,
     "timeDay": 292,
     "timeWeek": 292,
@@ -128,8 +128,7 @@
       "2025-07-06": 235,
       "2025-07-05": 144,
       "2025-07-04": 184,
-      "2025-07-03": 20,
-      "2025-07-02": 20
+      "2025-07-03": 20
     }
   }
 ]
