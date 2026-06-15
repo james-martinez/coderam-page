@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/coderam.page.ico",
     "slug": "coderam-page",
     "status": "down",
-    "uptime": "99.22%",
-    "uptimeDay": "84.54%",
+    "uptime": "99.20%",
+    "uptimeDay": "71.40%",
     "uptimeWeek": "79.09%",
-    "uptimeMonth": "87.86%",
-    "uptimeYear": "98.22%",
+    "uptimeMonth": "87.43%",
+    "uptimeYear": "98.19%",
     "time": 1999,
     "timeDay": 738,
     "timeWeek": 3344,
@@ -74,7 +74,7 @@
       "2026-06-12": 488,
       "2026-06-13": 96,
       "2026-06-14": 222,
-      "2026-06-15": 0
+      "2026-06-15": 189
     }
   },
   {
