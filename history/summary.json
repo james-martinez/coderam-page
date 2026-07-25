@@ -6,15 +6,15 @@
     "slug": "coderam-page",
     "status": "up",
     "uptime": "98.80%",
-    "uptimeDay": "89.46%",
-    "uptimeWeek": "86.85%",
-    "uptimeMonth": "83.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "87.60%",
+    "uptimeMonth": "83.70%",
     "uptimeYear": "97.13%",
     "time": 1862,
-    "timeDay": 1408,
-    "timeWeek": 971,
-    "timeMonth": 971,
-    "timeYear": 1728,
+    "timeDay": 1503,
+    "timeWeek": 1007,
+    "timeMonth": 967,
+    "timeYear": 1721,
     "dailyMinutesDown": {
       "2026-05-08": 50,
       "2026-05-09": 51,
@@ -78,9 +78,9 @@
     "url": "https://dns.coderam.page",
     "icon": "https://icons.duckduckgo.com/ip3/dns.coderam.page.ico",
     "slug": "dns",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "84.88%",
     "uptimeYear": "97.72%",
@@ -140,7 +140,8 @@
       "2026-07-12": 1440,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
-      "2026-07-09": 920
+      "2026-07-09": 920,
+      "2026-07-25": 0
     }
   }
 ]
